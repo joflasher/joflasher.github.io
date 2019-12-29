@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Jo Flasher Illustrations</title>
+   	<link>.</link>
+        <generator>jAlbum 12</generator>
+   		<description>The Art of Joleen Flasher</description>
+        <jalbum:absolutePath>http://joflasher.com/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://joflasher.com/Fantasy/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://joflasher.com/Minatures/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://joflasher.com/Portraits and Pets/album.rss" />   	
+        
+    </channel>
+</rss>
