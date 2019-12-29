@@ -11,6 +11,7 @@
     	<jalbum:link rel="sub" href="http://joflasher.com/Fantasy/album.rss" />   	
     	<jalbum:link rel="sub" href="http://joflasher.com/Minatures/album.rss" />   	
     	<jalbum:link rel="sub" href="http://joflasher.com/Portraits and Pets/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://joflasher.com/album/album.rss" />   	
         
     </channel>
 </rss>

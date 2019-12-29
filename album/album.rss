@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>album</title>
+   	<link>..</link>
+        <generator>jAlbum 12</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://joflasher.com/album/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://joflasher.com/album/Portraits and Pets/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://joflasher.com/album/Minatures/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://joflasher.com/album/Fantasy/album.rss" />   	
+        <item>
+            <title>folderimage</title>
+            <link>http://joflasher.com/album/folderimage.jpg</link>
+            <pubDate>Sun, 29 Dec 2019 10:35:15 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://joflasher.com/album/thumbs/folderimage.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="http://joflasher.com/album/folderimage.jpg" width="798" height="240"/>
+            <guid isPermaLink="false">folderimage.jpg</guid>
+        </item>
+        <item>
+            <title>folderthumb</title>
+            <link>http://joflasher.com/album/folderthumb.jpg</link>
+            <pubDate>Sun, 29 Dec 2019 10:35:15 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://joflasher.com/album/thumbs/folderthumb.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="http://joflasher.com/album/folderthumb.jpg" width="300" height="301"/>
+            <guid isPermaLink="false">folderthumb.jpg</guid>
+        </item>
+        <item>
+            <title>author</title>
+            <link>http://joflasher.com/album/author.jpg</link>
+            <pubDate>Sun, 29 Dec 2019 10:35:15 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://joflasher.com/album/thumbs/author.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="http://joflasher.com/album/author.jpg" width="300" height="297"/>
+            <guid isPermaLink="false">author.jpg</guid>
+        </item>
+    </channel>
+</rss>

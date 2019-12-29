@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Portraits and Pets</title>
+   	<link>../..</link>
+        <generator>jAlbum 12</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://joflasher.com/album/Portraits and Pets/</jalbum:absolutePath>
+        <item>
+            <title>Linda &amp; Thor</title>
+            <link>http://joflasher.com/album/Portraits and Pets/Linda_Thor.jpg</link>
+            <pubDate>Sun, 29 Dec 2019 10:35:16 -0500</pubDate>
+            <description>16 x 20 Oil on Hardboard.  Private Commission.</description>
+            <media:description type="html">16 x 20 Oil on Hardboard.  Private Commission.</media:description>
+            <media:thumbnail url="http://joflasher.com/album/Portraits and Pets/thumbs/Linda_Thor.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="http://joflasher.com/album/Portraits and Pets/Linda_Thor.jpg" width="629" height="800"/>
+            <guid isPermaLink="false">Linda_Thor.jpg</guid>
+        </item>
+        <item>
+            <title>Tiamat</title>
+            <link>http://joflasher.com/album/Portraits and Pets/Tiamat.jpg</link>
+            <pubDate>Sun, 29 Dec 2019 10:35:16 -0500</pubDate>
+            <description>8 x 10 watercolor</description>
+            <media:description type="html">8 x 10 watercolor</media:description>
+            <media:thumbnail url="http://joflasher.com/album/Portraits and Pets/thumbs/Tiamat.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="http://joflasher.com/album/Portraits and Pets/Tiamat.jpg" width="426" height="600"/>
+            <guid isPermaLink="false">Tiamat.jpg</guid>
+        </item>
+        <item>
+            <title>folderimage</title>
+            <link>http://joflasher.com/album/Portraits and Pets/folderimage.jpg</link>
+            <pubDate>Sun, 29 Dec 2019 10:35:16 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://joflasher.com/album/Portraits and Pets/thumbs/folderimage.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="http://joflasher.com/album/Portraits and Pets/folderimage.jpg" width="629" height="240"/>
+            <guid isPermaLink="false">folderimage.jpg</guid>
+        </item>
+        <item>
+            <title>folderthumb</title>
+            <link>http://joflasher.com/album/Portraits and Pets/folderthumb.jpg</link>
+            <pubDate>Sun, 29 Dec 2019 10:35:16 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://joflasher.com/album/Portraits and Pets/thumbs/folderthumb.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="http://joflasher.com/album/Portraits and Pets/folderthumb.jpg" width="300" height="382"/>
+            <guid isPermaLink="false">folderthumb.jpg</guid>
+        </item>
+    </channel>
+</rss>
