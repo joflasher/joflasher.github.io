@@ -886,7 +886,7 @@ a.control:hover {
 	touch-action:pan-y;
 }
 .page #main .items {
-	top:140px;
+	top:170px;
 }
 .sub-album #main .items {
 	top:260px;
@@ -973,7 +973,7 @@ a.control:hover {
 	max-height:none;
 }
 .page #main header {
-	height:120px;
+	height:150px;
 }
 .sub-album #main header {
 	height:240px;
@@ -985,7 +985,7 @@ a.control:hover {
 }
 #main header .title {
 	padding:0 20px;
-	max-height:240px;
+	max-height:210px;
 	overflow:hidden;
 	color:#fff;
 
@@ -1000,7 +1000,7 @@ a.control:hover {
 	max-height:120px;
 }
 .sub-album #main header .title {
-	max-height:240px;
+	max-height:210px;
 }
 #main header .title .upbtn {
 	float:left;
@@ -1078,7 +1078,7 @@ a.control:hover {
 	max-height:80px;
 }
 .sub-album #main header .hgroup {
-	max-height:200px;
+	max-height:170px;
 }
 #main header h1 {
 	font-weight:normal;
