@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Work In Progress - Sophie's Question</title>
+   	<link>../..</link>
+        <generator>jAlbum 12</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://joflasher.com/Minatures/Sophie's Question WIP/</jalbum:absolutePath>
+        <item>
+            <title>wip_2</title>
+            <link>http://joflasher.com/Minatures/Sophie's Question WIP/wip_2.jpg</link>
+            <pubDate>Sat, 11 Apr 2020 14:07:16 -0400</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://joflasher.com/Minatures/Sophie's Question WIP/thumbs/wip_2.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="http://joflasher.com/Minatures/Sophie's Question WIP/wip_2.jpg" width="750" height="1000"/>
+            <jalbum:exif originalDate="10/5/16 3:52 PM" cameraMake="Canon" cameraModel="Canon PowerShot SD970 IS"/>
+            <guid isPermaLink="false">wip_2.jpg</guid>
+        </item>
+        <item>
+            <title>wip_3</title>
+            <link>http://joflasher.com/Minatures/Sophie's Question WIP/wip_3.jpg</link>
+            <pubDate>Sat, 11 Apr 2020 14:07:16 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://joflasher.com/Minatures/Sophie's Question WIP/thumbs/wip_3.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="http://joflasher.com/Minatures/Sophie's Question WIP/wip_3.jpg" width="1000" height="874"/>
+            <guid isPermaLink="false">wip_3.jpg</guid>
+        </item>
+        <item>
+            <title>wip_4</title>
+            <link>http://joflasher.com/Minatures/Sophie's Question WIP/wip_4.jpg</link>
+            <pubDate>Sat, 11 Apr 2020 14:07:16 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://joflasher.com/Minatures/Sophie's Question WIP/thumbs/wip_4.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="http://joflasher.com/Minatures/Sophie's Question WIP/wip_4.jpg" width="871" height="1000"/>
+            <guid isPermaLink="false">wip_4.jpg</guid>
+        </item>
+        <item>
+            <title>wip_5</title>
+            <link>http://joflasher.com/Minatures/Sophie's Question WIP/wip_5.jpg</link>
+            <pubDate>Sat, 11 Apr 2020 14:07:16 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://joflasher.com/Minatures/Sophie's Question WIP/thumbs/wip_5.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="http://joflasher.com/Minatures/Sophie's Question WIP/wip_5.jpg" width="837" height="1000"/>
+            <guid isPermaLink="false">wip_5.jpg</guid>
+        </item>
+        <item>
+            <title>wip_6</title>
+            <link>http://joflasher.com/Minatures/Sophie's Question WIP/wip_6.jpg</link>
+            <pubDate>Sat, 11 Apr 2020 14:07:16 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://joflasher.com/Minatures/Sophie's Question WIP/thumbs/wip_6.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="http://joflasher.com/Minatures/Sophie's Question WIP/wip_6.jpg" width="790" height="1000"/>
+            <guid isPermaLink="false">wip_6.jpg</guid>
+        </item>
+        <item>
+            <title>wip_7</title>
+            <link>http://joflasher.com/Minatures/Sophie's Question WIP/wip_7.jpg</link>
+            <pubDate>Sat, 11 Apr 2020 14:07:16 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://joflasher.com/Minatures/Sophie's Question WIP/thumbs/wip_7.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="http://joflasher.com/Minatures/Sophie's Question WIP/wip_7.jpg" width="450" height="600"/>
+            <guid isPermaLink="false">wip_7.jpg</guid>
+        </item>
+        <item>
+            <title>wip_1</title>
+            <link>http://joflasher.com/Minatures/Sophie's Question WIP/wip_1.jpg</link>
+            <pubDate>Sat, 11 Apr 2020 14:07:16 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://joflasher.com/Minatures/Sophie's Question WIP/thumbs/wip_1.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="http://joflasher.com/Minatures/Sophie's Question WIP/wip_1.jpg" width="900" height="1000"/>
+            <guid isPermaLink="false">wip_1.jpg</guid>
+        </item>
+    </channel>
+</rss>
