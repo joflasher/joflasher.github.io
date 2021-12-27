@@ -11,7 +11,7 @@
         <item>
             <title>Linda &amp; Thor</title>
             <link>http://joflasher.com/Portraits and Pets/Linda_Thor.jpg</link>
-            <pubDate>Sun, 29 Nov 2020 20:34:30 -0500</pubDate>
+            <pubDate>Mon, 27 Dec 2021 13:49:06 -0500</pubDate>
             <description>16 x 20 Oil on Hardboard.  
 Private commission as an anniversary gift.  </description>
             <media:description type="html">16 x 20 Oil on Hardboard.  
@@ -23,9 +23,11 @@ Private commission as an anniversary gift.  </media:description>
         <item>
             <title>Legacy</title>
             <link>http://joflasher.com/Portraits and Pets/Legacy.jpg</link>
-            <pubDate>Sun, 29 Nov 2020 20:34:30 -0500</pubDate>
-            <description>Oil on mounted hardboard</description>
-            <media:description type="html">Oil on mounted hardboard</media:description>
+            <pubDate>Mon, 27 Dec 2021 13:49:06 -0500</pubDate>
+            <description>Oil on mounted huile paper
+Commission</description>
+            <media:description type="html">Oil on mounted huile paper
+Commission</media:description>
             <media:thumbnail url="http://joflasher.com/Portraits and Pets/thumbs/Legacy.jpg" width="200" height="150"/>
             <media:content type="image/jpeg" url="http://joflasher.com/Portraits and Pets/Legacy.jpg" width="1000" height="722"/>
             <guid isPermaLink="false">Legacy.jpg</guid>
@@ -33,7 +35,7 @@ Private commission as an anniversary gift.  </media:description>
         <item>
             <title>Tiamat</title>
             <link>http://joflasher.com/Portraits and Pets/Tiamat.jpg</link>
-            <pubDate>Sun, 29 Nov 2020 20:34:30 -0500</pubDate>
+            <pubDate>Mon, 27 Dec 2021 13:49:06 -0500</pubDate>
             <description>8 x 10 watercolor
 Private commission </description>
             <media:description type="html">8 x 10 watercolor
@@ -43,21 +45,21 @@ Private commission </media:description>
             <guid isPermaLink="false">Tiamat.jpg</guid>
         </item>
         <item>
-            <title>Reuben</title>
-            <link>http://joflasher.com/Portraits and Pets/Reuben.jpg</link>
-            <pubDate>Sun, 29 Nov 2020 20:34:30 -0500</pubDate>
-            <description>8 x 10 watercolor on paper
-Private Commission</description>
-            <media:description type="html">8 x 10 watercolor on paper
-Private Commission</media:description>
-            <media:thumbnail url="http://joflasher.com/Portraits and Pets/thumbs/Reuben.jpg" width="200" height="150"/>
-            <media:content type="image/jpeg" url="http://joflasher.com/Portraits and Pets/Reuben.jpg" width="761" height="1000"/>
-            <guid isPermaLink="false">Reuben.jpg</guid>
+            <title>Whippet</title>
+            <link>http://joflasher.com/Portraits and Pets/Whippet.jpg</link>
+            <pubDate>Mon, 27 Dec 2021 13:49:06 -0500</pubDate>
+            <description>11 x 14 Oil on Hardboard
+Commission</description>
+            <media:description type="html">11 x 14 Oil on Hardboard
+Commission</media:description>
+            <media:thumbnail url="http://joflasher.com/Portraits and Pets/thumbs/Whippet.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="http://joflasher.com/Portraits and Pets/Whippet.jpg" width="626" height="800"/>
+            <guid isPermaLink="false">Whippet.jpg</guid>
         </item>
         <item>
             <title>Ridgeback</title>
             <link>http://joflasher.com/Portraits and Pets/Ridgeback.jpg</link>
-            <pubDate>Sun, 29 Nov 2020 20:34:30 -0500</pubDate>
+            <pubDate>Mon, 27 Dec 2021 13:49:06 -0500</pubDate>
             <description>8 x 10 Watercolor on Paper
 Private commission</description>
             <media:description type="html">8 x 10 Watercolor on Paper
@@ -65,6 +67,18 @@ Private commission</media:description>
             <media:thumbnail url="http://joflasher.com/Portraits and Pets/thumbs/Ridgeback.jpg" width="200" height="150"/>
             <media:content type="image/jpeg" url="http://joflasher.com/Portraits and Pets/Ridgeback.jpg" width="768" height="1000"/>
             <guid isPermaLink="false">Ridgeback.jpg</guid>
+        </item>
+        <item>
+            <title>Reuben</title>
+            <link>http://joflasher.com/Portraits and Pets/Reuben.jpg</link>
+            <pubDate>Mon, 27 Dec 2021 13:49:06 -0500</pubDate>
+            <description>8 x 10 watercolor on paper
+Private Commission</description>
+            <media:description type="html">8 x 10 watercolor on paper
+Private Commission</media:description>
+            <media:thumbnail url="http://joflasher.com/Portraits and Pets/thumbs/Reuben.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="http://joflasher.com/Portraits and Pets/Reuben.jpg" width="761" height="1000"/>
+            <guid isPermaLink="false">Reuben.jpg</guid>
         </item>
     </channel>
 </rss>
